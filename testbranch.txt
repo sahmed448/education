@@ -1,1 +1,2 @@
 Testing branch
+Adding alias for commit in master
